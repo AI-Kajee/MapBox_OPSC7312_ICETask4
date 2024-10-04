@@ -1,0 +1,5 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">OPSC7312_MapBox_ICETask4</string>
+    <string name="mapbox_access_token" translatable="false" tools:ignore="UnusedResources">pk.eyJ1Ijoic3QxMDA2MzExMCIsImEiOiJjbTF1bm0wN2wwM2xoMmlyM25pYWVwbGUxIn0.YzEtTmbK7SUPnitMrnP_lQ</string>
+</resources>
+
